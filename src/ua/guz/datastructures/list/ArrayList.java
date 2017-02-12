@@ -1,3 +1,5 @@
+package ua.guz.datastructures.list;
+
 public class ArrayList {
     Object[] array;
     int size;
